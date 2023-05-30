@@ -1,0 +1,117 @@
+.head {
+    position: relative;
+    width: max;
+    height: 65px;
+    border-bottom: 15px;
+    background-color: #00ff6d;
+    margin-left: -5px;
+    margin-top: -5px;
+
+
+
+}
+
+.move {
+    padding-left: 10px;
+    padding-top: 7px;
+}
+
+.center {
+    position: relative;
+    padding-left: 30px;
+    background-color: #27ae60;
+    width: auto;
+    margin: 10px;
+    margin-top: -2px;
+    height: 25px;
+    border-radius: 3px;
+    color: white;
+
+}
+
+.lado1 {
+    position: relative;
+    padding: 10px;
+    background-color: #f2994a;
+    text-align: center;
+    width: 250px;
+    margin-left: -5px;
+    height: 400px;
+    border: 3px;
+    margin-top: 30px;
+    float: left;
+    border-radius: 5px;
+    margin-right: 20px;
+
+
+}
+
+.texto {
+    color: white;
+
+}
+
+.textos {
+    color: white;
+    margin-left: 30px;
+}
+
+.peace {
+    position: relative;
+    float: left;
+    width: 650px;
+    background-color: #eb5757;
+    height: 420px;
+    vertical-align: middle;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 5px;
+    margin-right: 30px;
+
+
+}
+
+.art {
+    position: relative;
+    margin-left: 30px;
+    background-color: white;
+    width: 300px;
+    border-radius: 5px;
+    width: 500px;
+    height: 60px;
+    text-align: left;
+    /* margin-left: 40px; */
+    margin-top: 40px;
+
+
+}
+
+.lado2 {
+    position: relative;
+    padding: 10px;
+    background-color: #f2994a;
+    text-align: center;
+    width: 250px;
+    margin-left: 20px;
+    height: 400px;
+    border: 3px;
+    margin-top: 30px;
+    float: left;
+    border-radius: 5px;
+}
+
+
+.sizf {
+    background-color: #bb6bd9;
+    height: 70px;
+    width: 100%;
+    float: right;
+    position: absolute;
+    margin-top: 480px;
+}
+
+.textf {
+color: white;
+margin-left: 15px;
+
+}
